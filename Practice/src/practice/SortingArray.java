@@ -13,7 +13,6 @@ public class SortingArray {
 				}
 			}
 		}
-		System.out.print("Ascending Order:");
 		for (int i = 0; i < array.length; i++) {
 			System.out.print(array[i] + ",");
 		}
